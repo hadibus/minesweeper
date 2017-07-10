@@ -1,0 +1,28 @@
+{
+  "name": "minesweeper",
+  "version": "0.0.1",
+  "description": "A minesweeper clone made with electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadibus/minesweeper.git"
+  },
+  "keywords": [
+    "minesweeper",
+    "clone",
+    "electron",
+    "game"
+  ],
+  "author": "hadibus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadibus/minesweeper/issues"
+  },
+  "homepage": "https://github.com/hadibus/minesweeper#readme",
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
