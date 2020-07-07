@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/hadibus/minesweeper#readme",
   "dependencies": {
-    "electron": "^1.6.11"
+    "electron": "^9.1.0"
   }
 }
